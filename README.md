@@ -1,6 +1,7 @@
 #  Mean and variance of a discrete  distribution
 
 NAME: SWATHI S
+
 REGISTER NUMBER: 212223040219
 # Aim : 
 
